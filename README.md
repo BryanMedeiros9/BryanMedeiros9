@@ -65,14 +65,6 @@ filosofia:
 
 ## `⌁` PROJETOS EM DESTAQUE
 
-<div align="center">
-
-<a href="https://github.com/BryanMedeiros9/Sample8">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=BryanMedeiros9&repo=Sample8&theme=chartreuse_dark&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=C9D1D9&icon_color=8B5CF6"/>
-</a>
-
-</div>
-
 | 🛰️ Projeto | 💡 O que faz | ⚙️ Stack |
 |:---:|:---|:---:|
 | **[Sample8](https://github.com/BryanMedeiros9/Sample8)** | Dashboard para descobrir samples, breaks e referências de funk direto do YouTube — busca, player integrado e playlist de favoritos via OAuth Google | `Vite` `JS` `YouTube Data API` `Google Identity Services` |
@@ -104,61 +96,3 @@ bryan@dev-core:~$ while (estudando) {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00F5FF"/>
 
-## `⌁` GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BryanMedeiros9&show_icons=true&theme=chartreuse_dark&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=C9D1D9&icon_color=8B5CF6&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMedeiros9&layout=compact&theme=chartreuse_dark&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=C9D1D9"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BryanMedeiros9&theme=dark&hide_border=true&background=0D0221&stroke=00F5FF&ring=8B5CF6&fire=00F5FF&currStreakLabel=00F5FF"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BryanMedeiros9&theme=react-dark&bg_color=0D0221&color=00F5FF&line=8B5CF6&point=ffffff&hide_border=true"/>
-
-</div>
-
-<br/>
-
-## `⌁` TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BryanMedeiros9&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=4&row=1"/>
-
-</div>
-
----
-
-## `⌁` CONTRIBUTION SNAKE
-
-> ⚠️ Seção opcional — só funciona depois de ativar a Snake Action no seu repositório de perfil. Se ainda não configurou, apague este bloco pra não aparecer quebrado.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BryanMedeiros9/BryanMedeiros9/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-## `⌁` CONECTAR
-
-<div align="center">
-
-<a href="https://github.com/BryanMedeiros9">
-<img src="https://img.shields.io/badge/GitHub-BryanMedeiros9-0D0221?style=for-the-badge&logo=github&logoColor=00F5FF"/>
-</a>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D0221,50:5B0EAB,100:0D0221&section=footer"/>
-
-<div align="center">
-<sub>⌁ system idle — aguardando próximo commit ⌁</sub>
-</div>
