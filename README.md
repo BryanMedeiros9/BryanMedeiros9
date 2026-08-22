@@ -127,25 +127,23 @@ bryan@dev-core:~$ while (estudando) {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BryanMedeiros9&theme=algolia&no-frame=true&margin-w=12&column=4&row=2"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BryanMedeiros9&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=4&row=1"/>
 
 </div>
 
-<br/>
+---
 
 ## `⌁` CONTRIBUTION SNAKE
+
+> ⚠️ Seção opcional — só funciona depois de ativar a Snake Action no seu repositório de perfil. Se ainda não configurou, apague este bloco pra não aparecer quebrado.
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/BryanMedeiros9/BryanMedeiros9/output/github-contribution-grid-snake-dark.svg"/>
 
-<sub>⚠️ anima após configurar a <a href="https://github.com/Platane/snk">Snake Action</a> no repositório de perfil</sub>
-
 </div>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00F5FF"/>
+---
 
 ## `⌁` CONECTAR
 
